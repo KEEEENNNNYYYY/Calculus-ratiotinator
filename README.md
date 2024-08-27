@@ -2,7 +2,7 @@
 
 # SUJET:
 # PROJET1-2024. Examen. Calculus Ratiocinator
-### 7 juin 2024, lou@hei.school
+## 7 juin 2024, lou@hei.school
 « Imaginez un monde où on pourrait calculer mécaniquement la vérité. Le Calculus Ratiocinator1
 imaginé
 par Leibnitz promettait de nous débarrasser du débat d'opinion. Fini les disputes interminables du style
